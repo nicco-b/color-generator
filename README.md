@@ -1,1 +1,1 @@
-generate color pallettes || shades
+node color.js
